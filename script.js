@@ -1,7 +1,5 @@
 const messages = [
     "Are you sure?",
-    "Euuuuuuuuuuukiii🥺??",
-    "Meraaaa bacccchaaaaa?",
     "Baccchaaaa please...",
     "If you say no, I will be really sad🥺...",
     "I will be very very very sad...",
